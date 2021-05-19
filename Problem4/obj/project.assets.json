@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem4\\Problem4.csproj",
-      "projectName": "Problem4",
-      "projectPath": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem4\\Problem4.csproj",
+      "projectUniqueName": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem4\\Problem04.csproj",
+      "projectName": "Problem04",
+      "projectPath": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem4\\Problem04.csproj",
       "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem4\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZG46GiSPvAv0QifzT1yXoD+Ynz06Cq12onrfRxwiZiWBKnBTvSUI0On6znsaBQFTfIw041AhCAIjFeX8B5TeA==",
+  "dgSpecHash": "lf/sqsoIz2IQm7nuOd6b6PkfbAk/oXdmIUzKjN2EqzDVN0NG2ko1ELZcbUo2aaftZ3RxvyFR9lirAD7upcj0eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem1\\Problem1.csproj",
+  "projectFilePath": "C:\\Users\\Joe\\Source\\VS2019\\ProjectEuler\\Problem1\\Problem01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
