@@ -10,3 +10,4 @@ C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Proble
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.dll
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.pdb
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.genruntimeconfig.cache
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.csprojAssemblyReference.cache
