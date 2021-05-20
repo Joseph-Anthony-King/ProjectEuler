@@ -119,7 +119,7 @@ namespace Problem13
                 result += BigInteger.Parse(bigNumber);
             }
 
-            Console.Write("Problem 12: ");
+            Console.Write("Problem 13: ");
             Console.WriteLine("The result is " + result.ToString().Substring(0, 10));
 
             Console.ReadLine();
