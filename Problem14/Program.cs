@@ -55,7 +55,6 @@ namespace Problem14
 
             chains = chains.OrderByDescending(t => t.Chain.Count).ToList();
 
-
             Console.Write("Problem 14: ");
             Console.WriteLine("The result is " + chains.FirstOrDefault(t => t.Term == 837799).Term);
 
