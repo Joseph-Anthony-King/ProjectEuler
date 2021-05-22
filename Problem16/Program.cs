@@ -3,11 +3,11 @@ using System.Numerics;
 
 namespace Problem16
 {
+    // 2ⁿ = 32768  (where n = 15) and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
+
+    // What is the sum of the digits of the number 2ⁿ (where n = 1000)?
     class Program
     {
-        // 2ⁿ = 32768  (where n = 15) and the sum of its digits is 3 + 2 + 7 + 6 + 8 = 26.
-
-        // What is the sum of the digits of the number 2ⁿ (where n = 1000)?
         static void Main(string[] args)
         {
             double result = 0;
