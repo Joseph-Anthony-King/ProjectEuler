@@ -70,6 +70,7 @@ namespace Problem18
             {
                 Console.WriteLine(e.Message);
             }
+
             Console.ReadLine();
         }
 
