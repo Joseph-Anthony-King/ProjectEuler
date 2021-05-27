@@ -16,7 +16,7 @@ namespace Problem20
             var result = Bang(new BigInteger(100));
             result = SumOfDigits(result);
 
-            Console.Write("Problem 19: ");
+            Console.Write("Problem 20: ");
             Console.WriteLine("The result is " + result);
             Console.ReadLine();
         }
