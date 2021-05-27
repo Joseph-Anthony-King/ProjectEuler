@@ -23,19 +23,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem09", "Problem09\Prob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem10", "Problem10\Problem10.csproj", "{9FF0E9C9-6ABC-4AC9-94FD-88E9FAE3BA1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem11", "Problem11\Problem11.csproj", "{6C3A3A20-2B2E-496B-89F7-10633B417CDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem11", "Problem11\Problem11.csproj", "{6C3A3A20-2B2E-496B-89F7-10633B417CDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem12", "Problem12\Problem12.csproj", "{10A11F7C-8B70-4691-9853-32A1BFB2AA79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem12", "Problem12\Problem12.csproj", "{10A11F7C-8B70-4691-9853-32A1BFB2AA79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem13", "Problem13\Problem13.csproj", "{0C94CB5A-FA43-442D-8FA4-485A542B18CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem13", "Problem13\Problem13.csproj", "{0C94CB5A-FA43-442D-8FA4-485A542B18CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem14", "Problem14\Problem14.csproj", "{A8059533-6B06-4459-9D94-62E2AAF45AD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem14", "Problem14\Problem14.csproj", "{A8059533-6B06-4459-9D94-62E2AAF45AD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem15", "Problem15\Problem15.csproj", "{86B81E9B-F714-4BCC-9225-E2ADB1BBA92D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem15", "Problem15\Problem15.csproj", "{86B81E9B-F714-4BCC-9225-E2ADB1BBA92D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem16", "Problem16\Problem16.csproj", "{2D149367-1AA2-4817-9917-D7E4E844E116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem16", "Problem16\Problem16.csproj", "{2D149367-1AA2-4817-9917-D7E4E844E116}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem17", "Problem17\Problem17.csproj", "{EF464FD0-AA3C-403A-B71F-CA817071906A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem17", "Problem17\Problem17.csproj", "{EF464FD0-AA3C-403A-B71F-CA817071906A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem18", "Problem18\Problem18.csproj", "{76CE75C2-482B-4C85-ADC8-C7925E94278F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{EF464FD0-AA3C-403A-B71F-CA817071906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF464FD0-AA3C-403A-B71F-CA817071906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF464FD0-AA3C-403A-B71F-CA817071906A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76CE75C2-482B-4C85-ADC8-C7925E94278F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CE75C2-482B-4C85-ADC8-C7925E94278F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CE75C2-482B-4C85-ADC8-C7925E94278F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CE75C2-482B-4C85-ADC8-C7925E94278F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
