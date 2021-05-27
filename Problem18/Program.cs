@@ -41,28 +41,35 @@ namespace Problem18
         {
             var file = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/input.txt";
 
-            var input = ReadFile(file);
-
-            var limit = (int)Math.Sqrt(input.Length);
-
-            string method;
-
-            int result;
-
-            bool useBruteForceMethod = true;
-
-            if (useBruteForceMethod)
+            try
             {
-                result = BruteForceMethod(input, limit, out method);
-            }
-            else
-            {
-                result = DynamicProgrammingMethod(input, limit, out method);
-            }
+                var input = ReadFile(file);
 
-            Console.Write("Problem 18: ");
-            Console.WriteLine("The result is " + result);
-            Console.WriteLine("Calculated using the " + method);
+                var limit = (int)Math.Sqrt(input.Length);
+
+                string method;
+
+                int result;
+
+                bool useBruteForceMethod = true;
+
+                if (useBruteForceMethod)
+                {
+                    result = BruteForceMethod(input, limit, out method);
+                }
+                else
+                {
+                    result = DynamicProgrammingMethod(input, limit, out method);
+                }
+
+                Console.Write("Problem 18: ");
+                Console.WriteLine("The result is " + result);
+                Console.WriteLine("Calculated using the " + method);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
             Console.ReadLine();
         }
 
