@@ -62,14 +62,14 @@ namespace Problem22
                         _letterValues);
                 }
 
+                Console.Write("Problem 21: ");
+                Console.WriteLine("The result is " + result);
             }
             catch (Exception e)
             {
                 Console.WriteLine(e.Message);
             }
 
-            Console.Write("Problem 21: ");
-            Console.WriteLine("The result is " + result);
             Console.ReadLine();
         }
 
