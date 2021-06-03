@@ -18,6 +18,7 @@ namespace Problem22
         static void Main(string[] args)
         {
             double result = 0.0;
+
             var file = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/names.txt";
 
             Dictionary<char, int> _letterValues = new Dictionary<char, int> {
