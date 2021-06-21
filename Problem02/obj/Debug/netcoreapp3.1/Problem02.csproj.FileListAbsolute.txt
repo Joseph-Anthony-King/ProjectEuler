@@ -1,0 +1,13 @@
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\bin\Debug\netcoreapp3.1\Problem02.exe
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\bin\Debug\netcoreapp3.1\Problem02.deps.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\bin\Debug\netcoreapp3.1\Problem02.runtimeconfig.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\bin\Debug\netcoreapp3.1\Problem02.runtimeconfig.dev.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\bin\Debug\netcoreapp3.1\Problem02.dll
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\bin\Debug\netcoreapp3.1\Problem02.pdb
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.csproj.AssemblyReference.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.AssemblyInfoInputs.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.AssemblyInfo.cs
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.dll
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.pdb
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem02\obj\Debug\netcoreapp3.1\Problem02.genruntimeconfig.cache

@@ -11,3 +11,16 @@ C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Proble
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.pdb
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.genruntimeconfig.cache
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.csprojAssemblyReference.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\bin\Debug\netcoreapp3.1\Problem10.exe
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\bin\Debug\netcoreapp3.1\Problem10.deps.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\bin\Debug\netcoreapp3.1\Problem10.runtimeconfig.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\bin\Debug\netcoreapp3.1\Problem10.runtimeconfig.dev.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\bin\Debug\netcoreapp3.1\Problem10.dll
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\bin\Debug\netcoreapp3.1\Problem10.pdb
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.csproj.AssemblyReference.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.AssemblyInfoInputs.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.AssemblyInfo.cs
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.dll
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.pdb
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem10\obj\Debug\netcoreapp3.1\Problem10.genruntimeconfig.cache

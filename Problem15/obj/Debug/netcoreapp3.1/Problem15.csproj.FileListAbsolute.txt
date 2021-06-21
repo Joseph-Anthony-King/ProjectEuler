@@ -11,3 +11,16 @@ C:\Users\Joe\Source\VS2019\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Proble
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.dll
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.pdb
 C:\Users\Joe\Source\VS2019\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.genruntimeconfig.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\bin\Debug\netcoreapp3.1\Problem15.exe
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\bin\Debug\netcoreapp3.1\Problem15.deps.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\bin\Debug\netcoreapp3.1\Problem15.runtimeconfig.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\bin\Debug\netcoreapp3.1\Problem15.runtimeconfig.dev.json
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\bin\Debug\netcoreapp3.1\Problem15.dll
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\bin\Debug\netcoreapp3.1\Problem15.pdb
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.csproj.AssemblyReference.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.AssemblyInfoInputs.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.AssemblyInfo.cs
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.csproj.CoreCompileInputs.cache
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.dll
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.pdb
+C:\Users\Joseph.King\Source\repos\ProjectEuler\Problem15\obj\Debug\netcoreapp3.1\Problem15.genruntimeconfig.cache

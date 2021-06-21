@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Numerics;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Problem13
 {
@@ -110,6 +112,23 @@ namespace Problem13
     {
         static void Main(string[] args)
         {
+            Task<BigInteger> task = GetBigInteger();
+            
+            ConsoleSpiner spiner = new ConsoleSpiner();
+
+            while (!task.IsCompleted)
+            {
+                spiner.Turn();
+            }
+
+            Console.Write("Problem 13: ");
+            Console.WriteLine("The result is " + task.Result.ToString().Substring(0, 10));
+
+            Console.ReadLine();
+        }
+
+        public static async Task<BigInteger> GetBigInteger()
+        {
             BigInteger result = 0;
 
             var bigNumbers = GetBigIntList();
@@ -119,10 +138,33 @@ namespace Problem13
                 result += BigInteger.Parse(bigNumber);
             }
 
-            Console.Write("Problem 13: ");
-            Console.WriteLine("The result is " + result.ToString().Substring(0, 10));
+            return result;
+        }
 
-            Console.ReadLine();
+        public class ConsoleSpiner 
+        {        
+            int counter;
+            
+            public ConsoleSpiner()
+            {
+                counter = 0;
+            }
+
+            public void Turn()
+            {
+                Thread.Sleep(100);
+                counter++;
+
+                switch (counter % 4)
+                {
+                    case 0: Console.Write("  Working    / "); break;
+                    case 1: Console.Write("  Working.   - "); break;
+                    case 2: Console.Write("  Working..  \\ "); break;
+                    case 3: Console.Write("  Working... | "); break;
+                }
+
+                Console.SetCursorPosition(Console.CursorLeft - 15, Console.CursorTop);
+            }
         }
 
         public static List<string> GetBigIntList()
