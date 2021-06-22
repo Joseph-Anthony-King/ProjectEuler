@@ -1,0 +1,13 @@
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\bin\Debug\netcoreapp3.1\Problem24.exe
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\bin\Debug\netcoreapp3.1\Problem24.deps.json
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\bin\Debug\netcoreapp3.1\Problem24.runtimeconfig.json
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\bin\Debug\netcoreapp3.1\Problem24.runtimeconfig.dev.json
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\bin\Debug\netcoreapp3.1\Problem24.dll
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\bin\Debug\netcoreapp3.1\Problem24.pdb
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.AssemblyInfoInputs.cache
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.AssemblyInfo.cs
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.dll
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.pdb
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.genruntimeconfig.cache
+C:\Users\Joe\Source\VS2019\ProjectEuler\Problem24\obj\Debug\netcoreapp3.1\Problem24.csproj.AssemblyReference.cache
